@@ -1,10 +1,10 @@
-**#📚 Library Management System**
+** 📚 Library Management System**
 
-**##📝 Overview**
+**📝 Overview**
 
 A simple Library Management System built using Java that allows members to borrow and return books, while a librarian can manage books and view member details. The system keeps track of book availability and enforces borrowing limits.
 
-✨ **##Features**
+✨ **Features**
 
 📖 Book Management: Add new books to the library.
 
