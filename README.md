@@ -19,11 +19,13 @@ A simple Library Management System built using Java that allows members to borro
 🖥 _Console-Based Interface:_ Interactive menu-driven system.
 
 ## 📊 **Class Diagram**
+![Class diagram](image/Class_dia.png)
 
 **📌 Note:** The class diagram illustrates the structure of the Library Management System. The Library class contains references to Book and Member objects. The Book class manages book details and availability. The Member class tracks borrowed books, and the Librarian class provides functionalities to add books and view members.
 
 ## **🖥 Interface**
-
+![Interface1](image/interface1.png) ![Interface2](image/interface2.png) 
+![Interface3](image/interface3.png)
 
 ## **🎭 Actors**
 
